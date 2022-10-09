@@ -1,0 +1,5 @@
+packages:
+  - name: test-app
+    actions:
+      - name: main-entry
+        runtime: php:default
