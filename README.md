@@ -1,2 +1,2 @@
 # php-serverless
-PHP ServerLess Template for DigitalOcean.
+PHP ServerLess Template for DigitalOcean APP.
